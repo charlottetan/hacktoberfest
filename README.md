@@ -4,7 +4,7 @@ Helpful information for [Hacktoberfest 2018](https://hacktoberfest.digitalocean.
 ## Details
 * [Sign up](https://hacktoberfest.digitalocean.com/) and make 5 pull requests by October 31st in any timezone.
 * First 50,000 completions get a T-shirt. Number of completions can be tracked [here](https://hacktoberfest.digitalocean.com/stats).
-* Check your own stats at https://hacktoberfest.digitalocean.com/stats/<github-username>
+* Check your own stats at https://hacktoberfest.digitalocean.com/stats/<github-username\>
 
 ## Finding projects
 These resources encourage meaningful contributions, as opposed to creating PRs just to get the shirt.
